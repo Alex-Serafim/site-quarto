@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "site-quarto",
+    "section": "",
+    "text": "Este é o meu site\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n1 + 1\n\n[1] 2\nrjjjjjjj"
+  },
+  {
+    "objectID": "index.html#caminhos-com-here",
+    "href": "index.html#caminhos-com-here",
+    "title": "site-quarto",
+    "section": "Caminhos com here()",
+    "text": "Caminhos com here()\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2\n\n\nAmo jéssica\n\n#install.packages(\"here\")\nhere::here()\n\n[1] \"C:/Users/Windows/OneDrive/Documentos/meu-blog/site-quarto\"\n\n#a funcao here here ajuda a listar o caminho em que meu projeto está.\n\n# isso e util se eu quiser fazer um caminho a partir dessa raiz.\nhere::here(\"styles.css\")\n\n[1] \"C:/Users/Windows/OneDrive/Documentos/meu-blog/site-quarto/styles.css\""
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "sobre",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]

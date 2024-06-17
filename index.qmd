@@ -1,0 +1,39 @@
+---
+title: "site-quarto"
+---
+
+Este é o meu site
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
+
+`r`jjjjjjj
+
+## Caminhos com here()
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+```{r}
+1 + 1
+```
+
+Amo jéssica
+
+```{r}
+
+#install.packages("here")
+here::here()
+#a funcao here here ajuda a listar o caminho em que meu projeto está.
+
+# isso e util se eu quiser fazer um caminho a partir dessa raiz.
+here::here("styles.css")
+```
+
+# 10. Font Aewsome
+
+quarto install extension quarto-ext/fontawesome \> isso voce instala pelo terminal \`\`\`
+
+quarto install extension quarto-ext/fontawesome \`\`\`
